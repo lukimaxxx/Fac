@@ -1,2 +1,2 @@
 # Fac
-Atividade da fac.
+Repositorio para atividades de aula 
